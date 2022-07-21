@@ -1,10 +1,9 @@
 ![CM Banner](banner.png)
 
-## Current Update Progress (1.18.2)
+## Current Update Progress (1.19)
 
-#### ✅ Compact Machines (1.18.2) - Current
-*Compact Machines* is released for the current versions of Forge. The current focus is to stabilize machine features and bring the mod into full alignment
-with all the features available in Compact Machines 3 for 1.12.2.
+#### ✅ Compact Machines (1.18.2/1.19) - Current
+*Compact Machines* is released for the current versions of Forge. Next priorities are to improve the tunnel and upgrade systems, adding better support for mods like Applied Energistics 2 and Create.
 
-#### ⏱️ Compact Crafting (1.16.5) - LTS
-*Compact Crafting* is partially ported, and on temporary pause while rendering changes are being worked through. Join the Discord for screenshots and update news.
+#### ✅ Compact Crafting (1.18.2/1.19) - Current
+*Compact Crafting* is released for the current versions of Forge. Next priorities are to improve the recipe matching system more and to add new features for automation.
