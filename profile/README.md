@@ -1,9 +1,21 @@
 ![CM Banner](../compact-mods-banner.png)
 
-## Current Update Progress (1.19)
+### Current Minecraft Target: NeoForge for 1.21.1
 
-#### ✅ Compact Machines (1.18.2/1.19) - Current
-*Compact Machines* is released for the current versions of Forge. Next priorities are to improve the tunnel and upgrade systems, adding better support for mods like Applied Energistics 2 and Create.
+|                  | 16.5 | 18.2 | 19.2 | 20.1 | 20.6 | 21.1 | 21.4 | 21.5 |
+|-----------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|                  |🔥|🔥|🔥|🔥|🦊|🦊|🦊|🦊|
+|     **Machines** |🟦|🟦|🟦|🟩|🪛|🟩|🟥|🟥|
+|     **Crafting** |🟦|🟦|🟦|⬛|⬛|🟨|🟥|🟥|
+| **Simple Honey** |⬛|⬛|⬛|⬛|🟦|🟩|🟩|🟥|
+|       **Gander** |⬛|⬛|⬛|⬛|🟦|🟩|🟥|🟥|
+|      **Spatial** |⬛|⬛|⬛|🟦|🟦|🟩|🟥|🟥|
+|     **Services** |⬛|⬛|⬛|⬛|⬛|🟨|🟥|🟥|
 
-#### ✅ Compact Crafting (1.18.2/1.19) - Current
-*Compact Crafting* is released for the current versions of Forge. Next priorities are to improve the recipe matching system more and to add new features for automation.
+**​**
+
+**Color Meanings/Legend**
+
+| ⬛  | 🟥 | 🪛 | 🟨 | 🟩 | 🟦 |
+| --- | --- | --- | --- | --- | --- |
+| Unavailable | Planned | Unstable | WIP (Unreleased) | Stable (Available) | EOL |
