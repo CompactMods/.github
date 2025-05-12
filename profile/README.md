@@ -1,4 +1,4 @@
-![CM Banner](banner.png)
+![CM Banner](../compact-mods-banner.png)
 
 ## Current Update Progress (1.19)
 
